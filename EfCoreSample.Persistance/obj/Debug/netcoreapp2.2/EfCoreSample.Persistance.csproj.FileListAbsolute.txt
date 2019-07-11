@@ -1,0 +1,12 @@
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\bin\Debug\netcoreapp2.2\EfCoreSample.Persistance.deps.json
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\bin\Debug\netcoreapp2.2\EfCoreSample.Persistance.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\bin\Debug\netcoreapp2.2\EfCoreSample.Persistance.pdb
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\bin\Debug\netcoreapp2.2\EfCoreSample.Doman.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\bin\Debug\netcoreapp2.2\EfCoreSample.Doman.pdb
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\obj\Debug\netcoreapp2.2\EfCoreSample.Persistance.csprojAssemblyReference.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\obj\Debug\netcoreapp2.2\EfCoreSample.Persistance.csproj.CoreCompileInputs.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\obj\Debug\netcoreapp2.2\EfCoreSample.Persistance.AssemblyInfoInputs.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\obj\Debug\netcoreapp2.2\EfCoreSample.Persistance.AssemblyInfo.cs
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\obj\Debug\netcoreapp2.2\EfCoreSample.Persistance.csproj.CopyComplete
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\obj\Debug\netcoreapp2.2\EfCoreSample.Persistance.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Persistance\obj\Debug\netcoreapp2.2\EfCoreSample.Persistance.pdb
