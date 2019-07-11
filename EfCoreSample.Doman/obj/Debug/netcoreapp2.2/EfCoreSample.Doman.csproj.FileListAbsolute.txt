@@ -1,0 +1,8 @@
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\bin\Debug\netcoreapp2.2\EfCoreSample.Doman.deps.json
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\bin\Debug\netcoreapp2.2\EfCoreSample.Doman.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\bin\Debug\netcoreapp2.2\EfCoreSample.Doman.pdb
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\obj\Debug\netcoreapp2.2\EfCoreSample.Doman.csproj.CoreCompileInputs.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\obj\Debug\netcoreapp2.2\EfCoreSample.Doman.AssemblyInfoInputs.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\obj\Debug\netcoreapp2.2\EfCoreSample.Doman.AssemblyInfo.cs
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\obj\Debug\netcoreapp2.2\EfCoreSample.Doman.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Doman\obj\Debug\netcoreapp2.2\EfCoreSample.Doman.pdb

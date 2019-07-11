@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Infrastructure\\EfCoreSample.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Doman\\EfCoreSample.Doman.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Doman\\EfCoreSample.Doman.csproj",
+        "projectName": "EfCoreSample.Doman",
+        "projectPath": "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Doman\\EfCoreSample.Doman.csproj",
+        "packagesPath": "C:\\Users\\stepan\\.nuget\\packages\\",
+        "outputPath": "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Doman\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stepan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Infrastructure\\EfCoreSample.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Infrastructure\\EfCoreSample.Infrastructure.csproj",
+        "projectName": "EfCoreSample.Infrastructure",
+        "projectPath": "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Infrastructure\\EfCoreSample.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\stepan\\.nuget\\packages\\",
+        "outputPath": "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\stepan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Doman\\EfCoreSample.Doman.csproj": {
+                "projectPath": "D:\\EFCoreSample-develop\\EfCoreSample\\EfCoreSample.Doman\\EfCoreSample.Doman.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

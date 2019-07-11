@@ -1,0 +1,12 @@
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\bin\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.deps.json
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\bin\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\bin\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.pdb
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\bin\Debug\netcoreapp2.2\EfCoreSample.Doman.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\bin\Debug\netcoreapp2.2\EfCoreSample.Doman.pdb
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\obj\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.csprojAssemblyReference.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\obj\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\obj\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.AssemblyInfoInputs.cache
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\obj\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.AssemblyInfo.cs
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\obj\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.csproj.CopyComplete
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\obj\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.dll
+D:\EFCoreSample-develop\EfCoreSample\EfCoreSample.Infrastructure\obj\Debug\netcoreapp2.2\EfCoreSample.Infrastructure.pdb
